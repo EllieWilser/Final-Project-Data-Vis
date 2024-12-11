@@ -37,7 +37,7 @@ Profitable Product and Profit from Top Product - These were put into tooltips in
  
 I played around with the layout a lot when creating the visualization, but I decided to place the filters and legend at the bottom of the page instead of the top to have all the attention on the map. As seen in my original sketches, I had the filter at the top of the page, but I thought this took away from the map.
 
-### Discovering Facts
+## Discovering Facts
 
 The visualization allowed me to see that California, New York, and Texas were the states that generated the most profits and what products in those states were the most profitable. As seen in the documentation video, you saw which categories and years generated the most profits judging by the colors on the map.
 
